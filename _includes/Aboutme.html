@@ -1,0 +1,25 @@
+<div class="sidebar-module about">
+  <img title="{{site.author}}" src="{{site.aboutme_photo}}" alt="{{site.author}}"/>
+  <span>{{site.aboutme}}</span>
+  <br />
+
+  {% if site.ShowContactInfo == "True" %}
+
+  You can contact me via: <br />
+
+  {% if site.email != empty %}
+  <a href="mailto:{{site.email}}" title="mailto: {{site.email}}"><i class="fa fa-envelope-square fa-3x"></i></a>&nbsp;
+  {% endif %}
+  {% if site.twitter_username != empty %}
+  <a href="https://twitter.com/{{site.twitter_username}}" title="TwitterID: {{site.twitter_username}}"><i class="fa fa-twitter-square fa-3x"></i></a>
+  {% endif %}
+  {% if site.telegram_username != empty %}
+  <a href="https://t.me/{{site.telegram_username}}" title="Telegram: {{site.telegram_username}}"><i class="fa fa-telegram fa-3x"></i></a>
+  {% endif %}
+  {% if site.scholar_url != empty %}
+  <a href="{{site.scholar_url}}" title="Scholar Profile"><i class="fa fa-graduation-cap fa-3x"></i></a>
+  {% endif %}
+
+  {% endif %}
+
+</div>
