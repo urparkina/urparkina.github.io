@@ -14,7 +14,7 @@ comments: yes
       COALA: Numerically Stable and Efficient Framework for Context-Aware Low-Rank Approximation
     </div>
     <div class="pub-authors">
-      <strong>Uliana Parkina</strong>, Maxim Rakhuba
+      <u>Uliana Parkina</u>, Maxim Rakhuba
     </div>
     <div class="pub-venue">
       NeurIPS 2025
@@ -39,7 +39,7 @@ comments: yes
       Faster SVD via Accelerated Newton–Schulz Iteration
     </div>
     <div class="pub-authors">
-      Askar Tsyganov, <strong>Uliana Parkina</strong>, Ekaterina Grishina, Sergey Samsonov, Maxim Rakhuba
+      Askar Tsyganov, <u>Uliana Parkina</u>, Ekaterina Grishina, Sergey Samsonov, Maxim Rakhuba
     </div>
     <div class="pub-venue">
       ICLR 2026 Blogpost Track
