@@ -103,6 +103,18 @@
     }
   }
 
+  @include media-query($on-palm) {
+    .site-title {
+      font-size: 30px;
+      line-height: 36px;
+    }
+
+    .site-meta {
+      font-size: 16px;
+      line-height: 24px;
+    }
+  }
+
 }
 
 
@@ -332,5 +344,4 @@ q:after {
   color: #DD1144;
   font-weight:bold;
 }
-
 

@@ -367,6 +367,16 @@ cite {
     padding: 5px 10px;
   }
 }
+@media screen and (max-width: 600px) {
+  .site-nav .site-title {
+    font-size: 30px;
+    line-height: 36px;
+  }
+  .site-nav .site-meta {
+    font-size: 16px;
+    line-height: 24px;
+  }
+}
 
 /**
  * Sidebar
