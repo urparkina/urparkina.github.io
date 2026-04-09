@@ -312,6 +312,16 @@ cite {
   color: #828282;
 }
 
+@media screen and (max-width: 600px) {
+  .site-title {
+    font-size: 30px;
+    line-height: 36px;
+  }
+  .site-meta {
+    font-size: 16px;
+    line-height: 24px;
+  }
+}
 .site-nav {
   /*float: right;*/
   line-height: 56px;
@@ -365,16 +375,6 @@ cite {
   .site-nav .page-link {
     display: block;
     padding: 5px 10px;
-  }
-}
-@media screen and (max-width: 600px) {
-  .site-nav .site-title {
-    font-size: 30px;
-    line-height: 36px;
-  }
-  .site-nav .site-meta {
-    font-size: 16px;
-    line-height: 24px;
   }
 }
 

@@ -4,7 +4,7 @@ title:
 permalink: /
 ---
 
-Hi, my, name is Uliana Parkina, and I am a researcher at [HSE University](https://www.hse.ru/en/), Russia, in the MTML Lab (Matrix and Tensor Methods in Machine Learning). My supervisor is [Maxim Rakhuba](https://scholar.google.com/citations?user=-WOI9p8AAAAJ&hl=en&oi=ao).
+Hi, my name is Uliana Parkina, and I am a researcher at [HSE University](https://www.hse.ru/en/), Russia, in the MTML Lab (Matrix and Tensor Methods in Machine Learning). My supervisor is [Maxim Rakhuba](https://scholar.google.com/citations?user=-WOI9p8AAAAJ&hl=en&oi=ao).
 
 My research interests lie at the intersection of numerical linear algebra and machine learning. In particular, I am interested in matrix and tensor methods, optimization, and the numerical aspects of modern machine learning algorithms.
 
